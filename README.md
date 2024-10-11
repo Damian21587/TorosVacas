@@ -12,7 +12,9 @@ Al adivinarse el número termina la partida.
 
 2- Instalar librerias de dependencias con el comando "nmp install"(Tener instalado Node.js para correr dicho comando).
 
-3- Base datos: Correr las migraciones y los seeder para generar la BD con el comando "php artisan migrate:refresh --seed".
+3- Base datos: 
+  Crear fichero (nombre de la BD) en directorio /database/toros_vacas.sqlite
+  Correr las migraciones y los seeder para generar la BD con el comando "php artisan migrate:refresh --seed".
 
 4- Sistema web: Para entrar al sistema 
    usuario: admin@bullscows.cu
