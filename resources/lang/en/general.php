@@ -1,0 +1,81 @@
+<?php
+
+return [
+
+    /*
+    |--------------------------------------------------------------------------
+    | Password Reset Language Lines
+    |--------------------------------------------------------------------------
+    |
+    | The following language lines are the default lines which match reasons
+    | that are given by the password broker for a password update attempt
+    | has failed, such as for an invalid token or invalid new password.
+    |
+    */
+    'dimensiones' => 'Las dimensiones del archivo deben ser  :dim.',
+    'extensiones' => 'Extensiones permitidas: png, gif, jpg, jpeg, svg.',
+    'extensiones1' => 'Extensiones permitidas: xls, xlsx.',
+    'extensiones2' => 'Extensiones permitidas: doc, docx, pdf.',
+    'extensiones3' => 'Extensiones permitidas: pdf.',
+    'extensiones4' => 'Extensiones permitidas: mp4, webm, mov.',
+    'extensiones5' => 'Extensiones permitidas: zip, rar.',
+    'soloadmite' => 'Solo admite hasta :dim elementos.',
+    'email' => 'Debe tener el formato usuario@dominio.',
+    'url' => 'Debe tener el formato https://www.example.com.',
+    'enlaceEditorial' => 'Enlace de Editorial',
+    'emailvarios' => 'Debe tener el formato usuario@dominio o usuario@dominio, usuario@domino',
+    'phone' =>'Admite hasta 15 dígitos.',
+    'phoneformato'=>'Debe tener la estructura (+53)########.',
+    'nombre' => 'Solo admite letras y caracteres especiales.',
+    'add-content' => "El contenido :contenido se ha adicionado satisfactoriamente",
+    'edit-content' => "El contenido :contenido se ha modificado satisfactoriamente",
+    'delete-content' => "El contenido :contenido se ha eliminado satisfactoriamente",
+    'error-content-no-found' => "El contenido :contenido no existe",
+    'error-content' => "El contenido :contenido no se ha podido guardar satisfactoriamente",
+    'error-content-delete' => "El contenido :contenido no se ha podido eliminar satisfactoriamente, está asociado a otro elemento.",
+    'lbSeleccionar' => '-- Seleccionar --',
+    'lbimagen_galeria' => 'Galería de Imágenes',
+    'lbcreadoPor' => 'Creado por',
+    'lbPor' => 'Por',
+    'cancelar'=>"Cancelar",
+    'eliminar'=>"Eliminar",
+    'adicionar'=>"Adicionar",
+    'guardar'=>"Guardar",
+    'jugar'=>"Jugar",
+    'lbpuntuaje'=>"Puntuaje",
+    'lbnombreApellido'=>"Nombre y apellidos",
+    'lbnombre'=>"Nombre",
+    'lbapellido'=>"Apellido",
+    'lbfoto'=>"Foto",
+    'lbtelefono'=>"Teléfono",
+    'lbdireccion'=>"Dirección",
+    'lbemailcontacto'=>"Correo electrónico de contactos",
+    'lbinformacionPrecio'=>"Información de precio",
+    'lbnombreUsuario'=>"Usuario",
+    'lbedad'=>"Edad",
+    'lbevaluacion'=>"Evaluación",
+    'lbadivinar'=>"Adivinar",
+    'lbtoros'=>"Toro",
+    'lbvacas'=>"Vaca",
+    'lbeditarContraseña'=>"Editar contraseña",
+    'lbemail'=>"Correo electrónico",
+    'lbcontraseña'=>"Contraseña",
+    'lbrol' => 'Rol',
+    'lbusuario' => 'Usuario',
+    'acciones' => 'Acciones',
+    'lbimagen' => 'Imagen',
+    'lblogo' => 'Logo',
+    'lbdescripcionOrganigrama' => 'Descripción de organigrama',
+    'lbfechapublicacion' => 'Fecha de publicación',
+    'lbcontraseñaconfirmar'=>"Confirmar contraseña",
+    'ttl_usuario_listar' => 'Listado de Usuarios',
+    'ttl_usuario_crear' => 'Crear Usuario',
+    'ttl_usuario_editar' => 'Editar Usuario',
+    'ttl_role_listar' => 'Listado de Roles',
+    'ttl_role_crear' => 'Crear Rol',
+    'ttl_role_editar' => 'Editar Rol',
+    'ttl_torosvacas_crear' => 'Crear Juego (Toros y Vacas)',
+    'ttl_torosvacas_listar' => 'Listado de Juegos (Toros y Vacas)',
+    'ttl_gameOver' => 'Game Over',
+    'ttl_gameRanking' => 'Game Ranking',
+];
